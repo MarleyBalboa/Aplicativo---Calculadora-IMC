@@ -1,4 +1,4 @@
-# Atividade-app-Calculadora-IMC
+# Aplicativo Calculadora IMC
 App para calcular IMC
 Nome: Marlei dos Santos de Oliveira
 RA: 2171392221014
